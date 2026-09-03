@@ -1,0 +1,16 @@
+{
+    "cred" :{
+        "username" : "tst_gulmb08@usdta.royalaholddta.net",
+        "password" : "45Spront"
+    },
+    "test_data" : {
+        "connection_status_value" : "Connected",
+        "network_name_value" : "\"stwnet1_0940\"",
+        "device_MAC_address_value" : "c8:1c:fe:ee:7e:41",
+        "signal_label" : "-71 dB",
+        "device_IP_address_value" : "10.122.254.107",
+        "device_serial_number_value" : "24209524204303",
+        "android_version_value" : "11",
+        "launcher_vserion_value" : "v.2.8.6.819"
+    }
+}

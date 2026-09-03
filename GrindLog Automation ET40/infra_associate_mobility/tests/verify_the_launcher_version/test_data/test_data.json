@@ -1,0 +1,10 @@
+{
+    "cred" :{
+        "username" : "tst_gulmb08@usdta.royalaholddta.net",
+        "password" : "45Spront"
+    },
+    "test_data" : {
+        "application_name" : "Settings",
+        "launcher_version" : "v.2.8.6.819"
+    }
+}

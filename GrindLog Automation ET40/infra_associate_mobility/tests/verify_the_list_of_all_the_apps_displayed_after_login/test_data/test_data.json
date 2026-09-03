@@ -1,0 +1,154 @@
+{
+    "GIANT_Company" : {
+        "cred" :{
+            "username" : "tst_gulmb08@usdta.royalaholddta.net",
+            "password" : "45Spront"
+        },
+        "test_data" :{
+            "application_name" : [
+                "Velocity",
+                "Grind Log",
+                "Perishable Ordering",
+                "RPO",
+                "Clean Sweep",
+                "Compass",
+                "Flashfood",
+                "M365",
+                "Outlook",
+                "Restock",
+                "Service Channel",
+                "Production Planning",
+                "SuccessFactors",
+                "Testo",
+                "Globalworx",
+                "Edge",
+                "Giant Company Sharepoint",
+                "Kronos Workforce Central",
+                "Calculator",
+                "Flashlight" 
+            ]
+        }
+    },
+    "Food_Lion" : {
+        "cred" :{
+            "username" : "",
+            "password" : ""
+        },
+        "test_data" : {
+            "application_name" : [
+                "Velocity",
+                "Grind Log",
+                "Perishable Ordering",
+                "RPO",
+                "Clean Sweep",
+                "Compass",
+                "Flashfood",
+                "M365",
+                "Outlook",
+                "Restock",
+                "Service Channel",
+                "Production Planning",
+                "SuccessFactors",
+                "Testo",
+                "Globalworx",
+                "Edge",
+                "Giant Company Sharepoint",
+                "Kronos Workforce Central",
+                "Calculator",
+                "Flashlight" 
+            ]
+        }
+    },
+    "Giant_Food" : {
+        "cred" :{
+            "username" : "",
+            "password" : ""
+        },
+        "test_data" : {
+            "application_name" : [
+                "Velocity",
+                "Grind Log",
+                "Perishable Ordering",
+                "RPO",
+                "Clean Sweep",
+                "Compass",
+                "Flashfood",
+                "M365",
+                "Outlook",
+                "Restock",
+                "Service Channel",
+                "Production Planning",
+                "SuccessFactors",
+                "Testo",
+                "Globalworx",
+                "Edge",
+                "Giant Company Sharepoint",
+                "Kronos Workforce Central",
+                "Calculator",
+                "Flashlight" 
+            ]
+        }
+    },
+    "Hannaford" : {
+        "cred" :{
+            "username" : "",
+            "password" : ""
+        },
+        "test_data" : {
+            "application_name" : [
+                "Velocity",
+                "Grind Log",
+                "Perishable Ordering",
+                "RPO",
+                "Clean Sweep",
+                "Compass",
+                "Flashfood",
+                "M365",
+                "Outlook",
+                "Restock",
+                "Service Channel",
+                "Production Planning",
+                "SuccessFactors",
+                "Testo",
+                "Globalworx",
+                "Edge",
+                "Giant Company Sharepoint",
+                "Kronos Workforce Central",
+                "Calculator",
+                "Flashlight" 
+            ]
+        }
+    },
+    "Stop_&_Shop" : {
+        "cred" :{
+            "username" : "",
+            "password" : ""
+        },
+        "test_data" : {
+            "application_name" : [
+                "Velocity",
+                "Grind Log",
+                "Perishable Ordering",
+                "RPO",
+                "Clean Sweep",
+                "Compass",
+                "Flashfood",
+                "M365",
+                "Outlook",
+                "Restock",
+                "Service Channel",
+                "Production Planning",
+                "SuccessFactors",
+                "Testo",
+                "Globalworx",
+                "Edge",
+                "Giant Company Sharepoint",
+                "Kronos Workforce Central",
+                "Calculator",
+                "Flashlight" 
+            ]
+        }
+    }
+
+
+}
